@@ -1,0 +1,17 @@
+AUTH.CONFIG.JS DE CONFIG
+//contendrá la frase secreta para la creación del token respectivamente
+// auth.config.js
+
+//export const secret = "miFraseSecretaSuperSegura123"; // Reemplaza esto con tu propia frase secreta
+    
+
+//PASO 2
+//const authConfig = require('./auth.config.js');
+
+// Ahora puedes acceder a la frase secreta como authConfig.secret
+//const secret = authConfig.secret;
+
+// Usa 'secret' en tu lógica para crear tokens JWT
+
+
+//export const secret = 'tu_frase_secreta_aqui';
